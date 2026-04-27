@@ -1,5 +1,5 @@
 # Play fetch
-This is a game that was made with unity. You have to send dogs to catch the balls that are falling from the sky. The challange of this game is to time well your dogs to perfectly catch the balls.
+This is a game that was made with unity. You have to send dogs to catch the balls that are falling from the sky. The challange of this game is to time well your dogs to perfectly catch the balls. Also, the balls have different speed values, depanding on the color that the ball has.
 
 ## 🛠️ Technical details
 * **Spawn systems** -> for the balls(random) and the dogs(press SPACE)
