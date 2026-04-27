@@ -2,7 +2,7 @@
 This is a game that was made with unity. You have to send dogs to catch the balls that are falling from the sky. The challange of this game is to time well your dogs to perfectly catch the balls.
 
 ## 🛠️ Technical details
-* **Spawn systems** -> for the balls and the dogs
+* **Spawn systems** -> for the balls(random) and the dogs(press SPACE)
 * **Catch system** -> when a dog and a ball collide
 
 ## 📷 Screenshots
